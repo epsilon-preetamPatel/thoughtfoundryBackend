@@ -1,0 +1,24 @@
+{
+    "name": "Base",
+    "version": "1.0.0",
+    "description": "Basic structure for Express web apps.",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "Terlici Ltd.",
+    "license": "MIT",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "cors": "^2.8.5",
+        "express": "^4.16.0",
+        "inflect": "^0.5.0",
+        "joi": "^17.4.1",
+        "jsonwebtoken": "^8.5.1",
+        "lodash": "^4.17.21",
+        "mongoose": "^5.13.5",
+        "uuid": "^8.3.2",
+        "apollo-server-express": "2.14.3",
+        "graphql": "15.1.0"
+    }
+}

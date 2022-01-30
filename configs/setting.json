@@ -1,0 +1,13 @@
+{
+    "thoughtFounderDB": {
+        "uri": "mongodb+srv://preetampt57:preetampt57@cluster0.khafq.mongodb.net/thought_founder?retryWrites=true&w=majority",
+        "options": {
+            "useNewUrlParser": true,
+            "useUnifiedTopology": true
+        }
+    },
+    "jwt": {
+        "secretKey": "thoughtFounder2022"
+    },
+    "port": 3000
+}
